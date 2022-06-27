@@ -1,6 +1,6 @@
 requests==2.26.0
 Jinja2==2.11.3
-chardet==4.0.0
+chardet==5.0.0
 # https://ci.appveyor.com/project/rasa/scoop-directory/builds/37767497#L16
 # jsoncomment==0.4.2
 jsoncomment>=0.3.3
